@@ -41,7 +41,7 @@ group :production do
   gem 'pg'
 end
 
-gem "nokogiri", "~> 1.18.5", platform: :ruby
+gem "nokogiri", "~> 1.18.7", platform: :ruby
 gem "ffi", "~> 1.17.1", platform: :ruby
 gem "sys-uname", "~> 1.0.4", platform: :ruby
 group :development, :test do
