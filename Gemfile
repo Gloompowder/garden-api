@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby '3.2.2'
 
-gem "rubygems-update", "~> 3.3.27"
+gem "rubygems-update", "~> 3.6.6"
 gem "bundler", "~> 2.6.6"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.2", ">= 7.2.2.1"
