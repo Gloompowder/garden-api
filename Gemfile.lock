@@ -278,7 +278,7 @@ GEM
       rubocop-performance (>= 1.24)
       rubocop-rails (>= 2.30)
     ruby-progressbar (1.13.0)
-    rubygems-update (3.3.27)
+    rubygems-update (3.6.7)
     securerandom (0.4.1)
     soda-ruby (1.0.1)
       hashie (~> 3.5)
@@ -338,7 +338,7 @@ DEPENDENCIES
   rack-cors
   rails (~> 7.2.2, >= 7.2.2.1)
   rubocop-rails-omakase
-  rubygems-update (~> 3.3.27)
+  rubygems-update (~> 3.6.7)
   soda-ruby
   sys-uname (~> 1.0.4)
   tzinfo-data
