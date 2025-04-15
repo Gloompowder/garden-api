@@ -42,7 +42,7 @@ group :production do
 end
 
 gem "nokogiri", "~> 1.18.5", platform: :ruby
-gem "ffi", "~> 1.17.1", platform: :ruby
+gem "ffi", "~> 1.17.2", platform: :ruby
 gem "sys-uname", "~> 1.0.4", platform: :ruby
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
