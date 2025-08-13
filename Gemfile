@@ -5,7 +5,7 @@ ruby '3.2.2'
 gem "rubygems-update", "~> 3.3.27"
 gem "bundler", "~> 2.6.6"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.2.2", ">= 7.2.2.1"
+gem "rails", "~> 8.0.2"
 # Use postgresql as the database for Active Record
 
 # Use the Puma web server [https://github.com/puma/puma]
